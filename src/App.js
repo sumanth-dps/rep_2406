@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Karna</h1>
+      <h1>Karnadu</h1>
       <img src="./bhirava/bhirava.jpg"></img>
     </div>
   );
